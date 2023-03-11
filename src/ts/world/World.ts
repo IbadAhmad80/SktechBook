@@ -517,6 +517,9 @@ export class World
 				<div class="left-panel">
 					<div id="controls" class="panel-segment flex-bottom"></div>
 				</div>
+				<div class='meeting-btn-wrapper'>
+					<button class="meeting-btn">Start Meeting</div>
+				</div>
 			</div>
 		`).appendTo('body');
 
